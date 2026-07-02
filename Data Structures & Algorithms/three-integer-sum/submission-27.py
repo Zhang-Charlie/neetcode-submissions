@@ -1,0 +1,1 @@
+print(str.isalnum.__doc__)
